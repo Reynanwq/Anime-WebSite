@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>HTML</td>
-    <td>CSS</td>A
+    <td>CSS</td>
     <td>BOOTSRAP</td>
   </tr>
 </table>
