@@ -8,6 +8,6 @@
   <tr>
     <td>HTML</td>
     <td>CSS</td>
-    <td>BOOTSRAP</td>
+    <td>JavaScript</td>
   </tr>
 </table>
